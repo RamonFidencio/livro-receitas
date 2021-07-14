@@ -2,4 +2,6 @@
 
 Olá" Bem vindo ao meu livro de receitas :wave:
 
-- Strogonoffe de Frnago
+- Strogonoffe de Frango
+- Pavê
+- Bolo de Cenora
